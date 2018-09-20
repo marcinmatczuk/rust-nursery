@@ -1,0 +1,2 @@
+# rust-nursery
+Rust exercises
